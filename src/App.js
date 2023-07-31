@@ -11,7 +11,7 @@ export default function App() {
           {" "}
           This project was coded by Sam Poe and is{" "}
           <a
-            rel="noreferer"
+            rel="noreferrer"
             href="https://github.com/spoe-code/react-weather-app"
             target="_blank"
           >
